@@ -1,0 +1,6 @@
+{
+  "name": "HCMC-CultureHub",
+  "description": "Nền tảng học liệu di sản số trực quan, sinh động và thuận tiện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
